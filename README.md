@@ -21,9 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rohit_singh_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohit_singh_01" height="30" width="40" /></a>
+<a href="https://x.com/RohitSi03445898" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohit_singh_01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rohit-singh-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-singh-developer/" height="30" width="40" /></a>
-<a href="https://fb.com/rohit_singh_x23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rohit_singh_x23" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100030145203512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rohit_singh_x23" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
