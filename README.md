@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Singh</h1>
 <h3 align="center">Dynamic Front-End Developer | MERN Enthusiast</h3>
-<img align="right" alt="Developer" width = "400" src="https://github.com/Devortal/DEVORTAL/blob/main/output-onlinegiftools.gif">
+<img align="right" alt="Developer" width = "500" src="https://github.com/Devortal/DEVORTAL/blob/main/output-onlinegiftools.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devortal&label=Profile%20views&color=0e75b6&style=flat" alt="devortal" /> </p>
 
 - 🔭 I’m currently working on [A Edtech Website](https://www.nwkings.com/)
